@@ -2,10 +2,9 @@
                                                 <b>👋 Hi, I’m @Sunil Kumar Pal </b><br>
                                             <b>A passionate Full Stack developer from India</b>
 
-                                           
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-•	🌱 I’m currently learning Full Stack Development
+•	🌱 I’m currently learning Full Stack Development(HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, MONGODB)
 
 •	🤝 I’m working on MERN Project (Frontend & Backend)
 
