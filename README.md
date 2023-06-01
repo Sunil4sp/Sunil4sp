@@ -4,7 +4,7 @@
 
 _______________________________________________________________________________________________________________________________________________________________________________________
 
-•	🌱 I’m currently learning Full Stack Development(HTML, CSS, JAVASCRIPT, REACTJS, NODEJS, MONGODB)
+•	🌱 I’m currently learning Full Stack Development(HTML, CSS, Javascript, ReactJS, NodeJS, MongoDB)
 
 •	🤝 I’m working on MERN Project (Frontend & Backend)
 
