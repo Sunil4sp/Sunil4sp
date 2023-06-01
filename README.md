@@ -1,4 +1,4 @@
-![gi](https://user-images.githubusercontent.com/108508073/208238102-c363c1b9-038d-402f-ac02-d9c9f239cb77.gif)
+![pic](https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png)
                                                 <b>👋 Hi, I’m @Sunil Kumar Pal </b><br>
                                             <b>A passionate Full Stack developer from India</b>
 
