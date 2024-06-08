@@ -1,5 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Sunil Kumar Pal</h1><br><br>
-![pic](https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png)
+[pic](https://www.infomazeelite.com/wp-content/uploads/2022/12/MERN-Stack-Development.png)
                                             <b>A passionate Full Stack developer from India</b>
 <!--
 **sunil4sp/sunil4sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
